@@ -18,7 +18,7 @@ int main(void)
 	if (d == '8' && p == 'q')
 	continue;
 	putchar(',');
-	putchar(' ')
+	putchar(' ');
 	}
 	}
 	}
