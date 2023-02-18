@@ -9,7 +9,7 @@ int main(void)
 
 	for (d = '0'; d < 'q'; d++)
 	{
-	for (p = d + 'i'; p <= 'q'; p++)
+	for (p = d + '1'; p <= 'q'; p++)
 	{
 	if (p != d)
 	{
